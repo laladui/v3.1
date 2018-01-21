@@ -9,6 +9,19 @@
 }
 ._默认样式 {
 }
+._分类按纽 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line {
+}
 ._四级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -234,11 +247,6 @@
   color:#1BBC9C;
   text-align:center;
 }
-._分类按纽 {
-  font-size:16px;
-  text-align:left;
-  line-height:26px;
-}
 ._默认样式2 {
 }
 .button {
@@ -317,10 +325,6 @@
   font-size:32px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落2 {
   text-align:left;
 }
@@ -331,8 +335,6 @@
 .snapshot {
 }
 .box_21 {
-}
-.line {
 }
 .table_cell {
 }
